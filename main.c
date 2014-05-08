@@ -2,5 +2,7 @@
 
 int main()
 {
+	printf("Do nothing");
+	
 	return 0;
 }
